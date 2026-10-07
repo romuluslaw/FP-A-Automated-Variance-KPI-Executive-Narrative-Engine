@@ -46,7 +46,7 @@ flowchart TD
 **Run numbering is automatic.** The first export for a period is run 1 (first draft). A different export for the same period is run 2 and is compared
 with run 1. Dropping the same file again keeps the run number (for example after adding notes).
 
-## 3. Design decisions (agreed with the CFO)
+## 3. Design decisions (Loop in CFO)
 
 1. **Numbers are never produced by the AI.** The engine computes every figure, KPI status and signal. The AI interprets; every figure it writes is checked against the pack.
 2. **Two mappings, two owners.** Finance owns the statutory mapping (Board and investors). FP&A owns the management mapping and reclass rules (20% of engineering payroll and 30% of admin overhead apportioned to cost of revenue; management only). Operating profit must be identical on both bases.
@@ -104,6 +104,7 @@ fpa-automation-showcase/
 ├── test.js                     # Node integration runner (16 checks against the real command line)
 ├── run_app.bat / run_app.sh    # one-click launchers
 └── requirements.txt
+└── Day 3 slide results (for info)
 ```
 
 ## 6. Inputs
