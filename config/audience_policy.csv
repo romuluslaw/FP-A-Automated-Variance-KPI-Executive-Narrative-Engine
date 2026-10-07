@@ -1,0 +1,4 @@
+Audience,Basis,Redaction_Level,Revision_Note,Description
+Management,management,none,yes,Business-unit view on the management basis; unredacted internal detail
+Board,statutory,pii,yes,Statutory financial statement lines; personal data redacted but customer names kept
+Investor,statutory,full,no,Budget vs actual totals plus agreed KPIs; every identifier redacted before the AI sees it

@@ -1,0 +1,15 @@
+KPI,Direction,Target,Tolerance_Pct,Visible_To
+Gross_Margin_%,Higher,70.0,5,Management|Board|Investor
+Adjusted_Gross_Margin_%,Higher,60.0,5,Management
+Operating_Margin_%,Higher,5.0,40,Management|Board|Investor
+Opex_%_of_Revenue,Lower,65.0,5,Management|Board|Investor
+Adjusted_Opex_%_of_Revenue,Lower,55.0,5,Management
+Revenue_Growth_QoQ_%,Higher,1.5,30,Management|Board|Investor
+Revenue_Growth_YoY_%,Higher,10.0,20,Management|Board|Investor
+DSO_Days,Lower,45.0,5,Management|Board|Investor
+DPO_Days,Higher,28.0,10,Management|Board|Investor
+Working_Capital_Drag_Days,Lower,18.0,10,Management|Board|Investor
+Cash_Balance,Higher,1000000.0,10,Management|Board
+Operating_Cash_Flow,Higher,50000.0,20,Management|Board
+Free_Cash_Flow,Higher,25000.0,20,Management|Board
+Runway_Months,Higher,18.0,10,Management|Board

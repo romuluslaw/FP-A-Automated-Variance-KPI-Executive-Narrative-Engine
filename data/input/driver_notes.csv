@@ -1,0 +1,6 @@
+Note_ID,Period,Applies_To,Note,External_OK
+N1,2026-06,Service Revenue,Shortfall because Orchid Bay Holdings Pte Ltd deferred its phase 2 go-live to the next quarter; account contact Jane Tan (jane.tan@orchidbay.example).,Yes
+N2,2026-06,Cost of Revenue,Higher cost reflects dual-running charges from CloudNimbus Hosting Pte Ltd during the region migration.,Yes
+N3,2026-06,Sales & Marketing,Campaign spend was pulled forward from the next quarter for the SMB launch.,No
+N4,2026-06,Management basis,Adjusted gross margin apportions part of engineering payroll and admin overhead to cost of revenue; for management use only.,No
+N5,2026-06,Product Revenue,A large renewal with Sunrise Logistics Pte Ltd was signed late; payment to bank account 088-123456-7 is expected next week.,Yes

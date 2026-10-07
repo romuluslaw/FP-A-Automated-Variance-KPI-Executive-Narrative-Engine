@@ -1,0 +1,6 @@
+ERP_Header,Internal_Name
+Account Code,ERP_Account_Code
+Account Name,ERP_Description
+Business Unit,BU
+Balance,Amount
+Journal Description,Memo

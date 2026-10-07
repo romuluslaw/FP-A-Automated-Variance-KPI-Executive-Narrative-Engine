@@ -1,0 +1,12 @@
+Audience,Rule_Type,Target,Reason,Forbidden_Terms
+Board,dimension,BU,Business-unit detail is management-only,business unit|Platform|Enterprise|SMB
+Board,metric,Adjusted_Gross_Margin_%,Management-basis metric is never shown to the Board,adjusted gross margin|apportion
+Investor,dimension,BU,Business-unit detail is management-only,business unit|Platform|Enterprise|SMB
+Investor,metric,Adjusted_Gross_Margin_%,Management-basis metric is never shown to investors,adjusted gross margin|apportion
+Investor,horizon,RFvA_Month,Internal rolling forecast is not disclosed (selective disclosure risk),forecast|guidance|outlook
+Investor,horizon,RFvA_QTD,Internal rolling forecast is not disclosed (selective disclosure risk),forecast|guidance|outlook
+Investor,horizon,RFvA_YTD,Internal rolling forecast is not disclosed (selective disclosure risk),forecast|guidance|outlook
+Investor,horizon,MoM,Month-on-month movement is internal; investors see budget; QoQ and YoY,
+Investor,statement,BS,Investor deck covers P&L totals and agreed KPIs only,
+Investor,statement,CF,Investor deck covers P&L totals and agreed KPIs only,
+Investor,detail,totals_only,Investors see totals only (no individual revenue/cost/expense lines),

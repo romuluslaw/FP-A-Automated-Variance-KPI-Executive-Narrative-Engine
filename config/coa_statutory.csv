@@ -1,0 +1,16 @@
+ERP_Account_Code,ERP_Description,Std_Category,Std_Line,Effective_From
+4000-01,Gross Software Revenue,Revenue,Product Revenue,2024-12
+4000-02,Consulting Services Income,Revenue,Service Revenue,2024-12
+5000-10,Direct Hosting & Cloud Expense,COGS,Cost of Revenue,2024-12
+6000-05,Salaries - Engineering & Product,OpEx,R&D Expense,2024-12
+6000-20,Digital Marketing & Ad Spend,OpEx,Sales & Marketing,2024-12
+6000-80,Depreciation,OpEx,Depreciation,2024-12
+6000-90,Executive & Admin Overhead,OpEx,G&A Expense,2024-12
+1000-00,Cash and Bank,Asset,Cash,2024-12
+1100-00,Trade Receivables,Asset,Accounts Receivable,2024-12
+1200-00,Prepaid Expenses,Asset,Prepaid Expenses,2024-12
+1500-00,Fixed Assets (net),Asset,Fixed Assets,2024-12
+2100-00,Trade Payables,Liability,Accounts Payable,2024-12
+2200-00,Accrued Expenses,Liability,Accrued Expenses,2024-12
+3000-00,Share Capital,Equity,Share Capital,2024-12
+3100-00,Retained Earnings (opening),Equity,Retained Earnings,2024-12

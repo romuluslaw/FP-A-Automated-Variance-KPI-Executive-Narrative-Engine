@@ -1,0 +1,3 @@
+Rule_ID,Source_Account_Code,Percent,Target_Line,Target_Category,Effective_From,Description
+R1,6000-05,0.20,Engineering Payroll in COGS,COGS,2024-12,20% of engineering payroll apportioned to cost of revenue
+R2,6000-90,0.30,Admin Overhead in COGS,COGS,2024-12,30% of admin overhead apportioned to cost of revenue

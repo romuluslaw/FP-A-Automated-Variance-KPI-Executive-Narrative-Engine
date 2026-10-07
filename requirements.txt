@@ -1,0 +1,13 @@
+# Web dashboard
+streamlit==1.32.0
+
+# Data handling and Excel input/output
+pandas==2.2.1
+numpy==1.26.4
+openpyxl==3.1.2
+
+# Local Ollama integration (HTTP API)
+requests==2.31.0
+
+# PowerPoint deck builder (baseline method: script fills a fixed layout from the AI's slide spec)
+python-pptx==1.0.2
